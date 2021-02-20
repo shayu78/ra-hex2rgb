@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hex2rgb/static/css/main.052c4e8f.chunk.css",
+    "main.js": "/ra-hex2rgb/static/js/main.e58225f5.chunk.js",
+    "main.js.map": "/ra-hex2rgb/static/js/main.e58225f5.chunk.js.map",
+    "runtime-main.js": "/ra-hex2rgb/static/js/runtime-main.a053557b.js",
+    "runtime-main.js.map": "/ra-hex2rgb/static/js/runtime-main.a053557b.js.map",
+    "static/js/2.b073ac81.chunk.js": "/ra-hex2rgb/static/js/2.b073ac81.chunk.js",
+    "static/js/2.b073ac81.chunk.js.map": "/ra-hex2rgb/static/js/2.b073ac81.chunk.js.map",
+    "static/js/3.dea671b4.chunk.js": "/ra-hex2rgb/static/js/3.dea671b4.chunk.js",
+    "static/js/3.dea671b4.chunk.js.map": "/ra-hex2rgb/static/js/3.dea671b4.chunk.js.map",
+    "index.html": "/ra-hex2rgb/index.html",
+    "static/css/main.052c4e8f.chunk.css.map": "/ra-hex2rgb/static/css/main.052c4e8f.chunk.css.map",
+    "static/js/2.b073ac81.chunk.js.LICENSE.txt": "/ra-hex2rgb/static/js/2.b073ac81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a053557b.js",
+    "static/js/2.b073ac81.chunk.js",
+    "static/css/main.052c4e8f.chunk.css",
+    "static/js/main.e58225f5.chunk.js"
+  ]
+}
